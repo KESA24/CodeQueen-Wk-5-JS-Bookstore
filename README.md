@@ -9,12 +9,12 @@
  
  - Display all books and their authors in the format below.(`Show book title and author name as shown below`).
  
-   `....................................................................................`
+    `....................................................................................`
  
-    Book: Git Pocket Guide
-    Author: Richard E. Silverman
+        `Book: Git Pocket Guide`
+        `Author: Richard E. Silverman`
 
-  `...................................................................................`
+    `...................................................................................`
 
 - Display all the books (show only book titles) published by `O'Reilly Media`.
 - Display all the books (show only book titles) which have more than 350 pages
