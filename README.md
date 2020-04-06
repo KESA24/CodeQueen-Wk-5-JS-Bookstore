@@ -2,8 +2,8 @@
 
 - Clone the project on you computer by running the command `git clone https://github.com/fatukunda/book-store.git` on your computer terminal.
 - Open the cloned project in VS Code.
-- The project contains a file called `books.js` that has a list of books.
-- Create a new file called 'booksController.js' and complete the following tasks in there.
+- The project contains a file called `books.js` that has a list of books. Study the array data.
+- Create a new file called `booksController.js` and complete the following tasks in there.
 
     - Import the books array in the booksController.js file using `require()`. `Research about how to accomplish this.`
 
